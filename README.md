@@ -15,11 +15,11 @@
 
 <br>
 
-![Toast Notification]()
+![Toast Notification](images/toast-notification.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Toast-Notification/)
 
 <br>
 
